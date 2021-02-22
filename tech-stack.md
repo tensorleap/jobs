@@ -1,11 +1,10 @@
 ### tech-stack:
 - Python
 - Tensorflow
-- NodeServer
+- Node.js
 - React
 - Mongo
 - ElasticSearch
 - GCP
 - ONNX
 - Kubernetes
-
