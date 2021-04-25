@@ -1,10 +1,24 @@
-### tech-stack:
+# Tensorleap Tech-stack
+
+### Backend
 - Python
-- Tensorflow
-- Node.js
-- React
+- node.js (typescript)
 - Mongo
 - ElasticSearch
-- GCP
+
+### Data science
+- Tensorflow
+- PyTorch
 - ONNX
+- Our own product 😁
+
+### Front-end
+- React
+- Storybook
+- Material-UI
+
+### Dev ops
+- Google Cloud
 - Kubernetes
+- Helm
+- Terraform
