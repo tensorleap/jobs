@@ -13,8 +13,9 @@
 - Our own product 😁
 
 ### Front-end
-- React
+- React (typescript)
 - Storybook
+- Hooks
 - Material-UI
 
 ### Dev ops
@@ -22,3 +23,6 @@
 - Kubernetes
 - Helm
 - Terraform
+- CDK8s
+- Argo (cd/workflows)
+- Github actions
